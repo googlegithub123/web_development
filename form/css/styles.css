@@ -1,0 +1,79 @@
+body{
+  background-image: url("background.jpg");
+}
+
+h1{
+  text-align: center;
+  color: #fff;
+  font-style: normal;
+  font-family: "Goudy Bookletter 1911", sans-serif;
+}
+form{
+  margin-left: auto;
+  margin-right: auto;
+  /* text-align: center; */
+}
+
+label{
+  color: #fff;
+}
+
+.label{
+  color: #fff;
+  padding-right: 150px;
+  margin-top: 90px; font-size: 20px; }
+
+input{
+  margin-left: 100px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+
+}
+.input_field{
+  width: 200px;
+  height: 20px;
+margin-left: 400px;
+
+}
+
+.master{
+  padding-right: 10px;
+}
+
+.full_stack{
+  padding-left: 80px;
+}
+
+.UI_design{
+  padding-left: 20PX;
+}
+
+.Artificial{
+  padding-left: 60px;
+}
+#alert{
+  color: red;
+}
+
+.Mobile{
+  padding-left: 95px;
+}
+.Digital{
+ padding-left: 50px;
+}
+
+.Front{
+  padding-left: 80px;
+}
+.Back{
+ padding-left: 80px;
+}
+#submit{
+  width: 100px;
+  height: 30px;
+  background-color: Green;
+}
+
+#alert1{
+  color: red;
+}
